@@ -1,5 +1,4 @@
 // Google Sheets formulas
-// (they look nice in JS syntax hilighting)
 // These can be combined with conditions to sweep an entire column of numbers
 
 // Check format is "555-555-5555"
